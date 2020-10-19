@@ -1,0 +1,21 @@
+*.class
+
+# BlueJ files
+*.ctxt
+doc/
+
+# IntelliJ files
+.idea/
+out/
+*.iml
+
+# Eclipse files
+bin/
+.metadata/
+.settings/
+.recommenders/
+RemoteSystemsTempFiles/
+
+# MacOS Specific
+.DS_Store
+
